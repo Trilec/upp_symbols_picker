@@ -1,0 +1,17 @@
+description "Symbol Picker Demo App for StageCarde\377";
+
+uses
+	CtrlLib,
+	CtrlCore,
+	RichEdit,
+	plugin/png,
+	plugin/jpg,
+	plugin/z,
+	StageCard;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+
